@@ -1,8 +1,27 @@
-# React + Vite
+# Open Course Assignment
+![image](https://github.com/user-attachments/assets/8b9e37db-258c-47b3-afe2-e98c32527e43)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Description
+This project is a web application built using React-helmet and React Router. It provides a platform for users to navigate through various pages such as Courses, About, Pricing, and Login.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/open-course-assignment.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd open-course-assignment
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+
+## Usage
+
+To run the application, use the following command:
